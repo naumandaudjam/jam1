@@ -233,7 +233,8 @@ nav {
 
 }
 
-@media screen and (max-width: 627px) {
+
+@media screen and (max-width: 675px) {
   .topnav {
     order: 1;
   }
@@ -278,5 +279,7 @@ nav {
     max-width: 200px;
   }
 
-
 }
+
+
+
